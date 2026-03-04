@@ -4,7 +4,8 @@ Ich arbeite aktuell an KI-getriebenen Web-Plattformen, Automations-Pipelines und
 ### Projekte
 
 - 🐺 [Volve](https://www.meimberg.io/projects/volve) — KI-gestütztes System, das Ideen über definierte Prozessstufen bis zur Umsetzung führt.
-- 🦞 [Morpheuxx: OpenClaw](https://www.meimberg.io/projects/morpheuxx) — Mein persönlicher AI-Agent auf OpenClaw, der über eigene Kanäle mit der Welt interagiert. (Website: https://morpheuxx.meimberg.io)
+-   📝 [AI Contentmanager](https://www.meimberg.io/b/5-schritte-zur-blog-automatisierung) — Maximale AI-Unterstützung bei der Content-Erstellung - von der Sprachnotiz bis zum professionellen Beitrag
+- 🦞 [Morpheuxx: OpenClaw](https://www.meimberg.io/projects/morpheuxx) — Persönlicher AI-Agent auf OpenClaw, der über eigene Kanäle mit der Welt interagiert.
 - ✨ [Luxarise](https://www.meimberg.io/projects/luxarise) — AI-Kunst als Geschäftsidee. (Shop: https://luxarise.com)
 - 🤖 [AwesomeApps](https://www.meimberg.io/projects/awesomeapps) — Next.js + Strapi Datenbank für Internetdienste, KI-basiert befüllt. (Live: https://awesomeapps.meimberg.io)
 - 👾 [MonsterMemory](https://www.meimberg.io/projects/monstermemory) — Memory-Game als Next.js/React Web-App. (Live: https://monstermemory.meimberg.io)
