@@ -3,7 +3,9 @@
   <img alt="Oliver Meimberg: Software, KI-Agenten und Unternehmen, die damit arbeiten." src="assets/banner-light.svg">
 </picture>
 
-Ich baue seit über 25 Jahren Software. Heute vor allem so, dass KI-Agenten den Großteil der Umsetzung übernehmen und Menschen die Architektur verantworten. Was dabei funktioniert und was nicht, schreibe ich auf [meimberg.io](https://www.meimberg.io) auf.
+Mein Schwerpunkt ist die KI-Transformation von Unternehmen: Geschäftsprozesse so neu aufzusetzen, dass KI-Agenten sie ausführen, mit klarer Führung und verbindlichen Regeln.
+
+In meinen eigenen Unternehmen ist das bereits die Arbeitsweise, weit über die Softwareentwicklung hinaus. Als Berater übertrage ich diesen Ansatz auf andere Unternehmen, auch auf große Organisationen. Mit [Leafcutter OS](https://leafcutteros.ai) entwickeln wir die Governance dafür. Grundlage sind mehr als 25 Jahre Erfahrung in Softwareentwicklung und Unternehmensführung.
 
 ## 🏢 Unternehmen & Netzwerke
 
