@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#D4D4D8"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#FAFAF7" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#FAFAF7" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#FAFAF7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#FAFAF7"/>
+  <rect width="1200" height="300" rx="16" fill="url(#dots)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#fade)"/>
+  <path d="M995.5 231.0 H982.6 V70.0 H993.6 L1065.2 193.1 L1136.2 70.0 H1147.0 L1147.3 231.0 H1134.4 L1134.2 95.8 L1068.2 209.8 H1061.7 L995.5 96.5 V231.0 Z" fill="#18181B" opacity="0.9"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="128" font-size="60" font-weight="700" fill="#18181B">Oliver Meimberg</text>
+    <text x="66" y="178" font-size="24" fill="#52525B">Software, KI-Agenten und Unternehmen, die damit arbeiten.</text>
+    <rect x="66" y="214" width="56" height="5" rx="2.5" fill="#18181B"/>
+    <text x="140" y="223" font-size="18" fill="#52525B" letter-spacing="2">BERLIN · FORM4 · MEIMBERG DIGITAL · LEAFCUTTER OS</text>
+  </g>
+</svg>
